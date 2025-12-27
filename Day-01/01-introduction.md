@@ -20,6 +20,7 @@ For automating network devices and other IT appliances where modules cannot be e
 
 
 Playbook is a collection of plays, single play
+Idempotent : If the Ansible creates one time , it won't do again 
 
 
 
