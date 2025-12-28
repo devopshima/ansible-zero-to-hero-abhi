@@ -1,0 +1,7 @@
+without role 
+ ansible-playbook  -i inventory.ini first
+-playbook.yaml
+
+If ROLE
+ ansible-playbook  -i inventory.ini first
+-playbook.yaml
